@@ -1,4 +1,4 @@
-<h1>About</h1>
+<h1>💫 About</h1>
 <p> This project is a static front-end design for a website, developed using HTML and CSS.</p>
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="42" height="42" /></a>
