@@ -1,6 +1,7 @@
-# 🌐 DailyBuy Website 
+# DailyBuy Website 
 <h1>💫 About Project</h1>
 <p>A basic static website built with HTML and CSS.
+  
 Features:
 
 Clean and structured layout
